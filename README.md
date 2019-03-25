@@ -1,3 +1,6 @@
+# 여러분의 질문을 받습니다.
+https://docs.google.com/forms/d/e/1FAIpQLSe4ISkk6f03gqAdNCsYyH4FPyBTNAgTONg-NUkEfeybJWzhqQ/viewform?usp=pp_url
+
 # The 제주연구소 
 
 * **The 제주연구소는 제주대학교 SW중심대학사업단에서 개최화는 특별특강 프로그램입니다.**
