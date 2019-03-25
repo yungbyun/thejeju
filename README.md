@@ -8,9 +8,9 @@
 
 ##  크리에이티브 스토리 (Creative Story)
 
-| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+| 순번      | 날짜 | 강사     |   특강제목   |  내용 |
+| :---        |    :----:   |          ---: |          ---: |          ---: |
+| 1      | 3월 28일(목)       | 신후랑대표(INUC)  | 스타트업 in 제주 | 유브레인 이노베이션센터와 오로라하우스  |
+| Paragraph   | Text        | And more      |  |  |
 
 ## 오로라하우스 (Aurora House)
