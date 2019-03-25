@@ -8,10 +8,9 @@
 
 ##  크리에이티브 스토리 (Creative Story)
 
-|   |   |   |   |   |
-|:-:|:-:|:-:|:-:|:-:|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
 
 ## 오로라하우스 (Aurora House)
