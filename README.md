@@ -1,3 +1,6 @@
+# 런치 밋업, 선착순 신청(70명)
+https://docs.google.com/forms/d/1B1RbnVNAD6nne3tWbrLb5l6woeu-nPZBjSL8Z6JL1i8/edit
+
 # 여러분의 질문을 받습니다.
 https://docs.google.com/forms/d/e/1FAIpQLSe4ISkk6f03gqAdNCsYyH4FPyBTNAgTONg-NUkEfeybJWzhqQ/viewform?usp=pp_url
 
