@@ -30,4 +30,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSe4ISkk6f03gqAdNCsYyH4FPyBTNAgTONg-NUkE
 * **[The 제주연구소]의 취지에 맞춰 제주에서 독립적으로 수행이 가능한 비즈니스 모델을 발굴하고 실제 서비스로 연결하는데 방점을 두고 운영하며 4월에 참여 학생을 모집하고 11월까지 총 8개월 동안 창업 프로젝트 이어갑니다. (11월 이후의 서비스는 프로젝트 참여 TF에 의해 계속 사업화 여부, 방식에 따라 결정됩니다.)**
 
 ## 첫번째 특강자료
-https://www.dropbox.com/s/bl5xk1rl8o36z8q/1st.pdf?dl=0
+https://www.dropbox.com/s/gec8tq0hr3cl8rf/1.pdf?dl=0
+
+## 두번째 특강자료
+
