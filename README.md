@@ -1,5 +1,6 @@
-# 런치 밋업, 선착순 신청(70명)
-https://docs.google.com/forms/d/1B1RbnVNAD6nne3tWbrLb5l6woeu-nPZBjSL8Z6JL1i8/edit
+# The제주연구소 크리에이티브 스토리 계획
+https://www.dropbox.com/s/p8gsr55s9ct2mzl/%E3%80%8CThe%20%EC%A0%9C%EC%A3%BC%EC%97%B0%EA%B5%AC%EC%86%8C%E3%80%8D%20%ED%81%AC%EB%A6%AC%EC%97%90%EC%9D%B4%ED%8B%B0%EB%B8%8C%20%EC%8A%A4%ED%86%A0%EB%A6%AC.pdf?dl=0
+
 
 # 여러분의 질문을 받습니다.
 https://docs.google.com/forms/d/e/1FAIpQLSe4ISkk6f03gqAdNCsYyH4FPyBTNAgTONg-NUkEfeybJWzhqQ/viewform?usp=pp_url
